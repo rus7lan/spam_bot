@@ -2,7 +2,7 @@ from asyncio import sleep
 from pyrogram import Client, filters
 
 app = Client("my_account")
-spam_text = 'вас выебали https://t.me/xuyna07'
+spam_text = 'Зеленский хуйло'
 delay = 0.25
 
 
